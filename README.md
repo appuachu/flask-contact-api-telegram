@@ -38,10 +38,10 @@ API will start on http://127.0.0.1:5000
 
 # Deployment
 ```bash
-## Hosting the Frontend
+* Hosting the Frontend
 You can host index.html on GitHub Pages or any static web hosting service.
 
-## Deploying the Backend
+* Deploying the Backend
 Heroku: Use Flask buildpack
 Render: Deploy app.py with Python runtime
 VPS / Cloud Server: Run with gunicorn or uwsgi
