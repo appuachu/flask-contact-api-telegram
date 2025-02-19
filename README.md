@@ -19,7 +19,6 @@ cd flask-contact-api-telegram
 
 ## 2. Install Dependencies
 
-Make sure you have Python 3 installed, then run:
 pip install flask flask-cors requests
 
 ## 3. Set Up Telegram Bot
